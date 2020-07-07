@@ -12,7 +12,7 @@
 
     pkg install git
 
-    git clone https://github.com/termux-lab/UrlPhish.git
+    git clone https://github.com/PressFTA/URLfsh
 
     cd UrlPhish
 
